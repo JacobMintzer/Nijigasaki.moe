@@ -1,0 +1,7 @@
+.bgImage {
+	background-color: #000000;
+	background-position: center;
+	overflow:auto;
+	background-repeat: no-repeat;
+	background-size:contain;
+}
